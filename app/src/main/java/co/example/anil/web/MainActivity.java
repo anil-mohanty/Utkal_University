@@ -14,7 +14,7 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.Toast;
-
+/* This a app for DDCE utkal university developed by Anil Kumar Mohanty */
 public class MainActivity extends Activity {
 
     WebView wv;
